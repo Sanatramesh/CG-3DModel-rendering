@@ -25,5 +25,5 @@ Anomalies:
 ==========
 
 		You might see a transparent window when you run the program. One
-	click on the window solve the issue and we can see the object with on
+	click on the window solves the issue and we can see the object on
 	a black background.
